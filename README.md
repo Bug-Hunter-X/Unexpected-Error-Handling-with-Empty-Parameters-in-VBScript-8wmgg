@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in VBScript related to parameter handling.  The `bug.vbs` file contains a function that attempts to handle empty parameters but may not do so consistently across different VBScript environments. The `bugSolution.vbs` file provides a more robust solution.
